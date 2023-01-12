@@ -6,7 +6,7 @@ I'm Software developer with experience in:
 
 - React.JS with JavaScript and Typescript ⚛️
 - I like create CI/CD process and improve existing pipelines. (Gitlab CI)
-- Git with Gitflow and conventional commits (I support use commitizen)💚
+
 
 
 
