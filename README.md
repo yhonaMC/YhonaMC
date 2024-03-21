@@ -10,9 +10,9 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS,],
    technologies: {
       frontEnd: {
-          js: ["React", "Next js"],
+          js: ["React", "Nextjs", "React Native"],
           others: [ "Redux", "Firebase", "Jest"],
-          css: [ "Bootstrap", "Material Ui", "Chakra UI", "  Styled Component",]
+          css: [ "Tailwind","Bootstrap", "Material Ui", "Chakra UI", "  Styled Component",]
       },
    },
   
