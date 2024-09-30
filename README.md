@@ -1,6 +1,6 @@
 ### Hi, I'm Yhonaiker! 🚀
 
-I’m a **Developer**. **Self-taught**. 2+ Years of Experience in Software development 👨🏽‍💻.
+I’m a **Developer**. **Self-taught**. 3+ Years of Experience in Software development 👨🏽‍💻.
 
 I'm Software developer with experience in:
 
