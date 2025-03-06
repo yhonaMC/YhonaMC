@@ -11,7 +11,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
           js: ["React", "Nextjs", "React Native"],
-          others: [ "Redux", "Firebase", "Jest"],
+          others: [ "Redux", "Context", "Vitest", "React testing library"],
           css: [ "Tailwind","Bootstrap", "Material Ui", "Chakra UI", "  Styled Component",]
       },
    },
